@@ -17,6 +17,13 @@
                 </configuration>
             </plugin>
         </plugins>
+	  <distributionManagement>
+  <snapshotRepository>
+    <id>calculator</id>
+    <name>calculator</name>
+    <url>http://localhost:8081/repository/calculator/</url>
+  </snapshotRepository>
+</distributionManagement>
   
   </build>
 </project>
