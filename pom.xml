@@ -23,9 +23,9 @@
 	
 <distributionManagement>
   <snapshotRepository>
-    <id>calculator</id>
-    <name>calculator</name>
-    <url>http://localhost:8081/repository/calculator/</url>
+    <id>Sample</id>
+    <name>Sample</name>
+    <url>http://localhost:8081/repository/Sample/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
